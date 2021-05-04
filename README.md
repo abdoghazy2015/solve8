@@ -1,1 +1,1 @@
-# solve8
+bin2hex(file_get_contents("/get_flag"));
